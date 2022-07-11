@@ -147,3 +147,8 @@ th{
 .img--icon5{
     width:70px;
 }
+.note{
+    margin-top:10px;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif;
+}
